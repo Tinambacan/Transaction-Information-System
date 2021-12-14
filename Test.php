@@ -1,7 +1,6 @@
 </!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 </head>
 <body>
 	<table border= 0 padding="5" align="center">
